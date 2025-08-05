@@ -1,0 +1,87 @@
+# 🚀 Kalichain Network Migration – August 2025
+
+## 📢 Summary
+
+Kalichain has successfully migrated to a new custom **Avalanche Subnet** as part of its technological upgrade and strategic alignment with Avalanche's **R9000 Program**. This upgrade brings faster transactions, reduced fees, and greater flexibility for the Kalichain ecosystem.
+
+All wallet balances have been automatically **airdropped 1:1** on the new chain based on a pre-announced snapshot. No action is required from users.
+
+---
+
+## 📆 Migration Timeline
+
+- **Snapshot Taken**: August 4, 2025 @ 18:00 UTC  
+- **Airdrop Completed**: August 4, 2025 @ 22:00 UTC  
+- **New RPC & Explorer Live**: August 5, 2025  
+
+---
+
+## 🔧 New Network Details
+
+| Parameter       | Value |
+|----------------|-------|
+| **Chain Name**  | Kalichain (Avalanche Subnet) |
+| **RPC URL**     | https://subnets.avax.network/kalichain/mainnet/rpc |
+| **ChainID**     | `6533` |
+| **Explorer**    | [https://scan.explorer.com](https://scan.explorer.com) |
+| **Currency**    | KALIS |
+| **Website**     | [https://kalichain.com](https://kalichain.com) |
+
+---
+
+## 🔄 Snapshot & Airdrop Details
+
+- A snapshot of all balances was taken on the **legacy Kalichain chain** at **block height X (Aug 4, 18:00 UTC)**.
+- All wallet addresses, including exchange wallets (e.g. MEXC), were replicated **1:1** on the new chain.
+- Airdrops were sent directly to the **same wallet addresses** using the new network infrastructure.
+- Users do **not need to take any action**.
+
+---
+
+## ⚠️ Important Notes
+
+### Deposits & Withdrawals
+- **Deposits on the old Kalichain chain are disabled** via RPC shutdown.
+- The **legacy chain is still running** to maintain full transparency and traceability.
+- **Only withdrawals from some exchanges (e.g. MEXC)** are still functional via their independent RPCs.
+
+### Post-Snapshot Transactions
+- We are monitoring all outbound transactions made **after the snapshot**.
+- For example, **4 wallet withdrawals** were detected from MEXC after the snapshot — they will be manually airdropped on the new chain.
+- If you made a deposit after the snapshot, **please contact the Kalichain team** with your wallet and transaction hash.
+
+---
+
+## 📢 Communication & Transparency
+
+- Migration was announced on our official channels in advance:
+  - [Twitter Announcement](https://twitter.com/Kalichainoff)
+  - [Telegram](https://t.me/kalichain)
+
+- We’re also proud to share that Kalichain has joined:
+  - **Avalanche’s R9000 Program**
+  - **OVHcloud Startup Accelerator**, strengthening our infrastructure and growth potential.
+
+---
+
+## 🤝 Exchange Partners
+
+We’ve informed MEXC and other partners. Exchange wallets were fully airdropped during migration. We're currently waiting for MEXC to update to the new network.
+
+> ❗ If you're an exchange or dApp integrating Kalichain, please update your infrastructure to the new RPC and ChainID listed above.
+
+---
+
+## 🛠 Support
+
+For integration help or manual reconciliation after the snapshot, contact:
+
+📩 support@kalichain.com  
+🌐 https://kalichain.com  
+🛠 [https://github.com/kalichain](https://github.com/kalichain)
+
+---
+
+*Kalichain is entering a new era — more scalable, transparent, and community-focused than ever. Thank you for being part of it.*
+
+**Kalichain is dead. Long live Kalichain.** 👑
